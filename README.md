@@ -11,10 +11,6 @@ A basic front-end **Amazon homepage clone** built using **HTML and CSS only**. T
 - Responsive layout using Flexbox and Grid (optional if implemented)
 - Fully static (no JavaScript or backend)
 
-## 📸 Preview
-
-![Amazon Clone Screenshot](screenshot.png)
-
 ## 🧰 Technologies Used
 
 - HTML5
